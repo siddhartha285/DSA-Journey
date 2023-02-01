@@ -1,0 +1,19 @@
+#outer_div{
+    border: 2px black solid;
+    margin:20px;
+}
+#inner_div1{
+    height:200px;
+    width:200px;
+    background-color: darkcyan;
+}
+#inner_div2{
+    height:200px;
+    width:200px;
+    background-color: orange ;
+}
+#inner_div3{
+    height:200px;
+    width:200px;
+    background-color: maroon;
+}

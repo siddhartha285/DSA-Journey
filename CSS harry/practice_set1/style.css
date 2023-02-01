@@ -1,0 +1,66 @@
+.container{
+    background-color: #000000;
+    color: aliceblue;
+    position:fixed;
+    top: 0;
+    width: 100%;
+    display: inline;
+    
+    
+    padding: 4px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+span{
+  
+    margin-left: 8px;
+    margin-right: 8px;
+    
+    
+}
+.name{
+    display: inline;
+    text-align: right;
+    margin-left: 78%;
+    padding-bottom: 3px;
+   
+}
+
+    
+    
+    
+   
+
+.img{
+    display: inline;
+    width: 28px;
+    height: 28px;
+    margin-left: 6px;
+    
+}
+.home{
+    display: inline;
+}
+body{
+    background-color: #2C3639;
+}
+.wall
+{
+    display: inline;
+   width: 100%;
+   
+}
+.container2{
+    position: relative;
+    margin-top: 40px;
+    
+    
+}
+.bottom-left {
+    position: absolute;
+    bottom: 500px;
+    left: 700px;
+    
+  }

@@ -1,0 +1,62 @@
+/*aside*/
+.widget{
+    border-top: 5px solid black;
+    
+}
+.widget input{
+    display: block;
+    background-color: antiquewhite;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.sub-btn
+{
+    padding:5px;
+    color:white;
+    background-color: black;
+    font-family: sans-serif;
+}
+.sub-btn:hover{
+   
+    background-color: gray;
+}
+.widget-title
+{
+    font-size: 1.5rem;
+
+}
+main{
+    width:60%;
+    display: inline-block;
+    margin-left: 5%;
+ 
+    
+}
+#none{
+   width: 100%;
+
+}
+aside{
+    display: inline-block;
+    width:10%;
+    vertical-align: top;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+#tips{
+    font-size: 3rem;
+}
+#tipsimg{
+    width: 100%
+}
+#author
+{
+    display: inline-block;
+    font-size: 1rem;
+    vertical-align: top;
+    margin-top: 10%;
+}
+#sidimg{
+    width:50px;
+    height:50px;
+}
